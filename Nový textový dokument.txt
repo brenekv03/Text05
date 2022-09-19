@@ -1,0 +1,5 @@
+12
+34
+a1Celkový součet je: 46
+
+Celkový součet je: 46
